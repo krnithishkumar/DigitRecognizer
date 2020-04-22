@@ -20,3 +20,5 @@ If there are any issues in python application, comment it and mark issues in Git
 Demo: https://youtu.be/gJDYckha5cs
   
 ## Sample Output
+![Capture 1](https://user-images.githubusercontent.com/29236082/79962466-b3d87880-84a5-11ea-9e56-6e23dd32431d.JPG)<br>
+![Capture 2](https://user-images.githubusercontent.com/29236082/79962470-b509a580-84a5-11ea-9e66-3b47d236f7e6.JPG)
